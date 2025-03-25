@@ -5,5 +5,7 @@ public class main {
 		// TODO Auto-generated constructor stub
 		System.out.println("Que chungo");
 		System.out.println("Jurgi estuvo aquiii");
+		System.out.println("Alejo estuvo aqui");
+		System.out.println("He vuelto");
 	}
 }
